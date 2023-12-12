@@ -101,5 +101,5 @@
     "url": "https://github.com/sungik-choi/gatsby-starter-apple/issues"
   },
   "homepage": "https://github.com/sungik-choi/gatsby-starter-apple#readme",
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "corepack@1.0.0"
 }
